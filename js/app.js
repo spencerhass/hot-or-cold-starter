@@ -79,7 +79,7 @@ generateNumber();
       checkGuess();
     }
   } else {
-    $("#feedback").text("You already won! Start a new game.");
+    $("#feedback").text("You already won!!! Start a new game.");
   }
 
   });
